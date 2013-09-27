@@ -1,5 +1,23 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
+apply plugin: 'pmd'
+apply plugin: 'jdepend'
+apply plugin: 'findbugs'
+apply plugin: 'cobertura'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.eriwen:gradle-cobertura-plugin:1.1.0'
+    }
+}
+
+cobertura {
+    format = 'xml'
+    includes = ['**/*.java']
+}
 
 sourceCompatibility = 1.7
 version = '1.0'
@@ -11,3 +29,23 @@ repositories {
 dependencies {
 	testCompile 'junit:junit:4.11'
 }
+
+// Cobertura-plugin ei ole t‰ysin yhteensopiva Java 1.7:n kanssa, joten k‰ytet‰‰n 
+// -XX:-UseSplitVerifier:ia
+test {
+	jvmArgs '-XX:-UseSplitVerifier'
+}
+
+pmd	{
+	ignoreFailures = true
+	ruleSets = ["basic", "braces", "junit"]
+}
+
+jdepend {
+	ignoreFailures = true
+}
+
+findbugs {
+	ignoreFailures = true
+}
+
