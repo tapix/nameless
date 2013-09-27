@@ -5,7 +5,7 @@ public class StringSwitch {
 	private String day;
 
 	public StringSwitch(String day) {
-		this.day = day;
+		this.day = "perjantai";
 	}
 
 	public int getDayNumber() {
