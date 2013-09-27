@@ -1,5 +1,7 @@
 Testijuttua
+ASd
 Uutta juttua
+<<<<<<< HEAD
 <<<<<<< HEAD
 uuta
 =======
@@ -8,3 +10,8 @@ Noniin
 hahahah
 
 BEEBY BEEBY BEEBY (c) BIEBER
+=======
+Noniin
+feature/hotfix/release
+-ali123202
+>>>>>>> af802f772df849715c89cd9ba5ecb8bc90eb7f69
