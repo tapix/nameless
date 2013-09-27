@@ -7,7 +7,7 @@ public class StringSwitch {
 	public StringSwitch(String day) {
 		this.day = "perjantai";
 	}
-
+	//Hyvin hyödyllinen funktio!!
 	public int getDayNumber() {
 		switch (day) {
 		case "maanantai":
