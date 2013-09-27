@@ -1,3 +1,8 @@
 Testijuttua
 Uutta juttua
+<<<<<<< HEAD
 uuta
+=======
+Noniin
+>>>>>>> ac079cf5366f827f39b6ddd4daab002af879c2db
+hahahah
