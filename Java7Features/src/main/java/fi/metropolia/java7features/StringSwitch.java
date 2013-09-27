@@ -5,6 +5,8 @@ public class StringSwitch {
 	private String day;
 
 	public StringSwitch(String day) {
+		/* Kommentti ihan piruuttani + koska käytin viimeksi
+		   branchejä väärin */
 		this.day = "perjantai";
 	}
 	//Hyvin hyödyllinen funktio!!
