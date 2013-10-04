@@ -1,3 +1,20 @@
 Testijuttua
+ASd
 Uutta juttua
+<<<<<<< HEAD
+<<<<<<< HEAD
+uuta
+=======
 Noniin
+>>>>>>> ac079cf5366f827f39b6ddd4daab002af879c2db
+hahahah
+
+BEEBY BEEBY BEEBY (c) BIEBER
+=======
+Noniin
+feature/hotfix/release
+-ali123202
+>>>>>>> af802f772df849715c89cd9ba5ecb8bc90eb7f69
+-marko on parempi kuin ali :P
+kakkka
+lolo............
