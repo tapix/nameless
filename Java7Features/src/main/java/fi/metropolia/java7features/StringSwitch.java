@@ -5,24 +5,26 @@ public class StringSwitch {
 	private String day;
 
 	public StringSwitch(String day) {
-		this.day = day;
+		/* Kommentti ihan piruuttani + koska käytin viimeksi
+		   branchejä väärin */
+		this.day = "perjantai";
 	}
 	//Hyvin hyödyllinen funktio!!
 	public int getDayNumber() {
 		switch (day) {
-		case "monday":
+		case "maanantai":
 			return 0;
-		case "tuesday":
+		case "tiistai":
 			return 1;
-		case "wednesday":
+		case "keskiviikko":
 			return 2;
-		case "thursday":
+		case "torstai":
 			return 3;
-		case "friday":
+		case "perjantai":
 			return 4;
-		case "saturday":
+		case "lauantai":
 			return 5;
-		case "sunday":
+		case "sunnuntai":
 			return 6;
 		default:
 			return 0;
