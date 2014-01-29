@@ -14,5 +14,9 @@ MUUTOS2
 
 Jos m‰ki v‰h‰n muutan -thomasgu
 lis‰‰ muutoksia -villepra
+<<<<<<< HEAD
 
 Lis‰sin teksti‰ - tonisu
+=======
+muutos
+>>>>>>> 5bd8cab6d72bafae17a3491b4e53bdc919bd37c4
