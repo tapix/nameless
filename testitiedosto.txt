@@ -1,6 +1,7 @@
 Lis‰‰ testi‰.
 
 Testijuttua
+<<<<<<< HEAD
 
 THIS. IS. TESTI.
 
@@ -19,3 +20,25 @@ Lis‰sin teksti‰ - tonisu
 muutos
 
 Siivottu ja lis√§tty t√§m√§ rivi t. Nico
+=======
+ASd
+Uutta juttua
+<<<<<<< HEAD
+<<<<<<< HEAD
+uuta
+=======
+Noniin
+>>>>>>> ac079cf5366f827f39b6ddd4daab002af879c2db
+hahahah
+
+BEEBY BEEBY BEEBY (c) BIEBER
+=======
+Noniin
+feature/hotfix/release
+-ali123202
+>>>>>>> af802f772df849715c89cd9ba5ecb8bc90eb7f69
+-marko on parempi kuin ali :P
+kakkka
+lolo............
+Lis√§t√§√§n rivi teksti√§
+>>>>>>> 9ec36a78b8ab2a6dcc539769fe77541e4d94544e
