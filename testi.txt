@@ -1,0 +1,3 @@
+:DJokuTeksti:D
+
+release-1.0
