@@ -19,3 +19,5 @@ Lis‰sin teksti‰ - tonisu
 muutos
 
 Siivottu ja lis√§tty t√§m√§ rivi t. Nico
+
+pakolliset muutokset -villepra
