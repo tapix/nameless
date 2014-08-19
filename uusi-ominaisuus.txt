@@ -1,3 +1,0 @@
-public static void feature() {
-	System.out.println("Not a bug!");
-}
