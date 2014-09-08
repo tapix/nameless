@@ -1,5 +1,5 @@
 package fi.metropolia.java7features;
-
+//tata on muokattu
 public class BinaryLiterals {
 
 	private int binaryEight = 0b1000;
