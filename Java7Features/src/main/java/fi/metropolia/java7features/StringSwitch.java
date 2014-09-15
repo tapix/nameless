@@ -7,7 +7,7 @@ public class StringSwitch {
 	public StringSwitch(String day) {
 		this.day = day;
 	}
-	//Oma kommentti
+	//Oma kommentti jndm
 	public int getDayNumber() {
 		switch (day) {
 		case "monday":
@@ -28,5 +28,6 @@ public class StringSwitch {
 			return 0;
 		}
 	}
+	//ei oma kommentti tro
 
 }
