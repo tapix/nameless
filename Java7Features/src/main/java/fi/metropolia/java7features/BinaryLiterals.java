@@ -13,4 +13,7 @@ public class BinaryLiterals {
 		return binaryHundred;
 	}
 
+	
+	//hotfixataan tavaraa jeejee
+	//lisää muutoksia asdasdad asd adasdperuna
 }
