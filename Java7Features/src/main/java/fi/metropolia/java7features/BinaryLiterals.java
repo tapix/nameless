@@ -15,5 +15,5 @@ public class BinaryLiterals {
 
 	
 	//hotfixataan tavaraa jeejee
-	//lisää muutoksia asdasdad asd adasdperuna
+	//eeppisiä ominaisuuksia lisätty
 }
