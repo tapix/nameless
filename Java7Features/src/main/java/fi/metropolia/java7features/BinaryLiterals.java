@@ -10,7 +10,7 @@ public class BinaryLiterals {
 	}
 
 	public int getBinaryHundred() {
-		system.out.print("teht5");
+		system.out.print("teht3");
 		return binaryHundred;
 	}
 
