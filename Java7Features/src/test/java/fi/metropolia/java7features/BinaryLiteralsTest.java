@@ -24,6 +24,6 @@ public class BinaryLiteralsTest {
 		assertEquals(literals.getBinaryHundred(), 100);
 	}
 	public void haloo() {
-		echo "Haloo";
+		echo "Halloota";
 	}
 }
