@@ -12,5 +12,9 @@ public class BinaryLiterals {
 	public int getBinaryHundred() {
 		return binaryHundred;
 	}
+	
+	public void Test() {
+		System.out.println("Testi");
+	}
 
 }
