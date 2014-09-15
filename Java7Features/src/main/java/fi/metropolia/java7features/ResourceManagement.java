@@ -17,7 +17,7 @@ public class ResourceManagement {
 		try (InputStream is = new ByteArrayInputStream("string".getBytes());
 				Scanner scanner = new Scanner(is);) {
 			this.scanner = scanner;
-			//Tämä kommentti on turha kommentti
+			//Tämä on turha kommentti
 			scanner.useDelimiter("\\A");
 			return scanner.hasNext() ? scanner.next() : "";
 		}
