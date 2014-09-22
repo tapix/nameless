@@ -6,6 +6,11 @@ import java.sql.SQLException;
 public class MultiCatch {
 
 	private boolean throwSqlException;
+    
+
+        private void turhaFunktio(){
+	    system.out.println("Olen uusi turha ominaisuus");
+	}
 
 	public MultiCatch(boolean throwSqlException) {
 		this.throwSqlException = throwSqlException;
