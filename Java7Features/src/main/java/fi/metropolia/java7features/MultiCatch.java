@@ -7,7 +7,9 @@ public class MultiCatch {
 
 	private boolean throwSqlException;
     
-
+	private void turhaMetodi(){
+	   system.out.println("Olen turha metodi");
+	}
         private void turhaFunktio(){
 	    system.out.println("Olen uusi turha ominaisuus");
 	}
