@@ -1,5 +1,7 @@
 package fi.metropolia.java7features;
 
+//ei mulla oikeesti ole mit‰‰n kommentoitavaa :(
+
 public class StringSwitch {
 
 	private String day;
