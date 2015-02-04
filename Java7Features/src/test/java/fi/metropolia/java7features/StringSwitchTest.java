@@ -1,5 +1,5 @@
 package fi.metropolia.java7features;
-
+//Aatuko se siellä?
 import static org.junit.Assert.*;
 
 import org.junit.Before;
