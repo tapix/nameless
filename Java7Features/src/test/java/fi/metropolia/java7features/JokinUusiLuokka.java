@@ -5,5 +5,7 @@ public class JokinUusiLuokka {
 
   private String test;
 
+  public JokinUusiLuokka() {
 
+  }
 }
