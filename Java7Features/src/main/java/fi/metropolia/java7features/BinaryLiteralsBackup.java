@@ -22,7 +22,7 @@ public class BinaryLiterals {
 	public void Test() {
 		System.out.println("Testi");
 	}
-	//Tiedostoa on muokattu
+
 
 	//hotfixataan tavaraa jeejee
 	//eeppisiä ominaisuuksia lisätty
