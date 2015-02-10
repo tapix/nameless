@@ -1,7 +1,5 @@
-﻿package fi.metropolia.java7features;
+package fi.metropolia.java7features;
 //tata on muokattu
-//eetupa lab4 muoccccaus
-//lab4 muoc Tehtava 3
 public class BinaryLiterals {
 
 	private int binaryEight = 0b1000;
@@ -24,7 +22,7 @@ public class BinaryLiterals {
 	public void Test() {
 		System.out.println("Testi");
 	}
-	//Tiedostoa on muokattu - taas!
+
 
 	//hotfixataan tavaraa jeejee
 	//eeppisiä ominaisuuksia lisätty

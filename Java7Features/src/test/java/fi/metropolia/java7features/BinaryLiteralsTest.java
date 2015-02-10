@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
+// Kommentti
 public class BinaryLiteralsTest {
 
 	private BinaryLiterals literals;

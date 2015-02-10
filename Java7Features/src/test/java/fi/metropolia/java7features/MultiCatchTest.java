@@ -14,6 +14,8 @@ public class MultiCatchTest {
 	@Before
 	public void setup() {
 		sqlCatch = new MultiCatch(true);
+		
+		//måj
 		ioCatch = new MultiCatch(false);
 	}
 
