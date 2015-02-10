@@ -1,6 +1,7 @@
 ﻿package fi.metropolia.java7features;
 //tata on muokattu
 //eetupa lab4 muoccccaus
+//lab4 muoc Tehtava 3
 public class BinaryLiterals {
 
 	private int binaryEight = 0b1000;
