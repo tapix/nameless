@@ -1,7 +1,9 @@
 ﻿package fi.metropolia.java7features;
 //tata on muokattu
+//sanotaan ny näin että pitää nauraa ku itkeekää ei saa
 //eetupa lab4 muoccccaus
 //lab4 muoc Tehtava 3
+
 public class BinaryLiterals {
 
 	private int binaryEight = 0b1000;
