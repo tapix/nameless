@@ -1,5 +1,5 @@
 package fi.metropolia.java7features;
-//tata on muokattu
+
 import java.io.IOException;
 import java.sql.SQLException;
 
@@ -14,8 +14,6 @@ public class MultiCatchTest {
 	@Before
 	public void setup() {
 		sqlCatch = new MultiCatch(true);
-		
-		//måj
 		ioCatch = new MultiCatch(false);
 	}
 

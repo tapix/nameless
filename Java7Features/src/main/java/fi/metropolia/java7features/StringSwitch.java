@@ -1,7 +1,5 @@
 package fi.metropolia.java7features;
 
-//ei mulla oikeesti ole mit‰‰n kommentoitavaa :(
-
 public class StringSwitch {
 
 	private String day;
@@ -9,7 +7,7 @@ public class StringSwitch {
 	public StringSwitch(String day) {
 		this.day = day;
 	}
-	//Oma kommentti jndm
+
 	public int getDayNumber() {
 		switch (day) {
 		case "monday":
@@ -30,6 +28,5 @@ public class StringSwitch {
 			return 0;
 		}
 	}
-	//ei oma kommentti tro
-	//Kommenttia
+
 }
