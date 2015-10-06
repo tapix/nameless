@@ -8,6 +8,9 @@ public class BinaryLiterals {
 	public int getBinaryEight() {
 		return binaryEight;
 	}
+	public void getRekt(){
+		System.out.print("Mikatamaon minaen tieda");
+	}
 
 	public int getBinaryHundred() {
 		return binaryHundred;
